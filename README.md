@@ -1,0 +1,1 @@
+BaTRAA and BoTRAA are box score derived statistics used to quantify how many runs a batter or bowler adds or prevents as compared to average (depending on the situation given by wickets taken and over number).
